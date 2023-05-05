@@ -17,7 +17,7 @@ This repository has contributions from:
 - Artur Tomczak
 - Nicholas Nisbet
 - Mathias Bonduel
-- ....
+- Vladimir Alexiev, Ontotext
 
 ## Acknowledgements
 
