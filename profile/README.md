@@ -17,7 +17,14 @@ This repository has contributions from:
 - Artur Tomczak
 - Nicholas Nisbet
 - Mathias Bonduel
-- ....
+- Vladimir Alexiev
+- Detlev van Loenhout
+- Michiel van Wijk
+- Ellen van den Bersselaar
+- Michela Mortara
+- Andreas Scalas
+- Pablo Vicente-Legazpi
+- Eduard Loscos
 
 ## Acknowledgements
 
