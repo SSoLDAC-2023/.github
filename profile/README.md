@@ -24,7 +24,6 @@ This repository has contributions from:
 - Michela Mortara
 - Andreas Scalas
 - Pablo Vicente-Legazpi
-- Eduard Loscos
 
 ## Acknowledgements
 
